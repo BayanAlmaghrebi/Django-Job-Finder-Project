@@ -1,12 +1,21 @@
 Jobs :
-    name
-    Job Overview
+    Title
+    Overview
     description  
+    Job Type
+    Job Location
     image 
     Salary
     Agency/company
     requirments
     Education + Experience
+    Posted Within
+    
+
+Categories:
+    name
+    Quantity
+    image/icon
 
 Apply process
     1. Search a job
