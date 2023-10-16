@@ -6,11 +6,15 @@ Jobs :
     Job Location
     image 
     Salary
-    Agency/company
     requirments
     Education + Experience
-    Posted Within
+    creation date
     
+Agency/company:
+    Title
+    image
+    Company Information
+    Jobs_count
 
 Categories:
     name
