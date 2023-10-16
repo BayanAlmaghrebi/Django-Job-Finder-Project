@@ -23,7 +23,7 @@ Categories:
 
 Apply process
     1. Search a job
-    2. Apply for job
+    2. Apply for job/user
     3. Get your job
 
 About
