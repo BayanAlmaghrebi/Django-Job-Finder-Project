@@ -27,3 +27,8 @@ Apply process
     3. Get your job
 
 About
+
+
+
+path('company/' , BrandList.as_view()),
+    path('brands/<slug:slug>' , BrandDetail.as_view()),
